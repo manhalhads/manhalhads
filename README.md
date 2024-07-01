@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**manhalhads/manhalhads** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+Hi, I'm Fajar.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Rank | Languages |
+|-----:|-----------|
+|     1| C++       |
+|     2| SQL       |
+|     3| C         |
+|     4| HTML      |
+|     5| CSS       |
+|     6| Javascript|
+|     7| Python    |
+
+
+- 🌱 I’m currently learning in game development and learning unity and python.
+- 👯 I’m looking to collaborate on open source and research projects.
+- 📫 How to reach me: 
+  Email: manhalhads@gmail.com
+
