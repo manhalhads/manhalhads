@@ -15,8 +15,8 @@
 |     3| C         |
 |     4| HTML      |
 |     5| CSS       |
-|     6| Javascript|
-|     7| Python    |
+|     6| Python    |
+|     7| Javascript|
    
 <!-- Projects -->
 
