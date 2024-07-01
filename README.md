@@ -21,7 +21,7 @@
 <!-- Projects -->
 
 <!-- Get In Touch -->
-<h2>Get In Touch</h2>
+<h2 align = "center">Get In Touch</h2>
  <div>
   <a href="https://www.linkedin.com/in/fajar-shakeel-96a38b197?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" style="display:inline-block; margin-right:20px;"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 </div>
