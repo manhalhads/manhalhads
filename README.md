@@ -1,12 +1,9 @@
-
-
-
-<!-- Title -->
-<h1 align="left">Hi, I'm Fajar 👋</h1>
+<h1 align="center">Hi, I'm Fajar 👋</h1>
 <!-- About Me -->
 
 - 🌱 I’m currently learning game development and python.
 - 👯 I’m looking to collaborate on open source and research projects.
+- - 📫 How to reach me: manhalhads@gmail.com
 
 | Rank | Languages |
 |-----:|-----------|
