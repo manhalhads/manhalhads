@@ -1,14 +1,12 @@
 
 
-##SAVE IT AS Readme.md IN THE REPO YOUGITHUBUSERNAME
-
 
 <!-- Title -->
 <h1 align="left">Hi, I'm Fajar 👋</h1>
 <!-- About Me -->
 <div style="display: flex;">
   <div style="flex: 1;">
-    <img src="https://camo.githubusercontent.com/34e2391334d75246d9c86c0a470a4b5606ab4dc84fb803930bc89635b4fce9c9/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e676966" alt="Your Name" width="400", height="200">
+    <img src="https://camo.githubusercontent.com/34e2391334d75246d9c86c0a470a4b5606ab4dc84fb803930bc89635b4fce9c9/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e676966" alt="Fajar Shakeel" width="400", height="200">
   </div>
 </div>
 
@@ -31,7 +29,6 @@
 <h2>Get In Touch</h2>
  <div>
   <a href="https://www.linkedin.com/in/fajar-shakeel-96a38b197?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" style="display:inline-block; margin-right:20px;"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-  <a href="twitter profile link" style="display:inline-block;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="48" height="48"/></a>
 </div>
 
 <img src="https://visitor-badge.glitch.me/badge?page_id= manhalhads" alt="visitor badge"/>
