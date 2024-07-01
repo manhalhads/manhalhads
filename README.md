@@ -14,7 +14,7 @@ Hi, I'm Fajar.
 |     7| Python    |
 
 
-- 🌱 I’m currently learning in game development and learning unity and python.
+- 🌱 I’m currently learning game development and python.
 - 👯 I’m looking to collaborate on open source and research projects.
 - 📫 How to reach me: 
   Email: manhalhads@gmail.com
