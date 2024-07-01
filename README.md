@@ -3,7 +3,8 @@
 
 - 🌱 I’m currently learning game development and python.
 - 👯 I’m looking to collaborate on open source and research projects.
-- - 📫 How to reach me: manhalhads@gmail.com
+-  📫 How to reach me: manhalhads@gmail.com
+-  ⚡ Fun fact: I've watched every episode of MasterChef USA.
 
 | Rank | Languages |
 |-----:|-----------|
