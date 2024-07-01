@@ -6,7 +6,7 @@
 -  📫 How to reach me: manhalhads@gmail.com
 -  ⚡ Fun fact: I've watched every episode of MasterChef USA.
 
-  < h2 align="center"> My Skills👋</h2>
+  <h2 align="center"> My Skills</h2>
 
 | Rank | Languages |
 |-----:|-----------|
