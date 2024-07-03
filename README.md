@@ -28,4 +28,4 @@
   <a href="https://www.linkedin.com/in/fajar-shakeel-96a38b197?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" style="display:inline-block; margin-right:20px;"><img src="https://raw.githubusercontent.com/manhalhads/social-icons/master/PNG/Color/LinkedIN.png"  width= "40" height= "40"/></a>
     <a href="https://github.com/manhalhads/manhalhads" style="display:inline-block; margin-right:20px;" alt ="github"><img src="https://github.com/manhalhads/social-icons/blob/master/PNG/Color/Github.png?raw=true"  width= "40" height= "40"/></a>
 </div>
-  </div>div>
+  </div>
