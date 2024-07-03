@@ -24,5 +24,5 @@
 <h2 align = "center">Get In Touch</h2>
  <div>
   <a href="https://www.linkedin.com/in/fajar-shakeel-96a38b197?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" style="display:inline-block; margin-right:20px;"><img src="https://img.icons8.com/color/48/000000/linkedin.png"  width= "40" height= "40"/></a>
-    <a href="https://github.com/manhalhads/manhalhads" style="display:inline-block; margin-right:20px;" alt ="github"><img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png"  width= "40" height= "40"/></a>
+    <a href="https://github.com/manhalhads/manhalhads" style="display:inline-block; margin-right:20px;" alt ="github"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Github.png?raw=true"  width= "40" height= "40"/></a>
 </div>
