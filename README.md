@@ -7,16 +7,6 @@
 -  ⚡ Fun fact: I've watched every episode of MasterChef USA.
 
   <h2 align="center"> My Skills</h2>
-
-| Rank | Languages |
-|-----:|-----------|
-|     1| C++       |
-|     2| SQL       |
-|     3| C         |
-|     4| HTML      |
-|     5| CSS       |
-|     6| Python    |
-|     7| Javascript|
    <div>
      <img src = "https://raw.githubusercontent.com/manhalhads/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/cplusplus/cplusplus-original.svg"  width= "50" height= "50">
      <img src = "https://raw.githubusercontent.com/manhalhads/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/c/c-original.svg" width = "50" height = "50">
@@ -25,7 +15,7 @@
      <img src = "https://raw.githubusercontent.com/manhalhads/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original.svg" width = "50" height = "50">
      <img src = "https://raw.githubusercontent.com/manhalhads/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original.svg" width = "50" height = "50>
    </div>
-<!-- Projects -->
+
 
 <!-- Get In Touch -->
 <h2 align = "center">Get In Touch</h2>
