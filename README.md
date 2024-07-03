@@ -11,9 +11,10 @@
      <img src = "https://raw.githubusercontent.com/manhalhads/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/cplusplus/cplusplus-original.svg"  width= "50" height= "50">
      <img src = "https://raw.githubusercontent.com/manhalhads/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/c/c-original.svg" width = "50" height = "50">
      <img src = "https://raw.githubusercontent.com/manhalhads/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/sqldeveloper/sqldeveloper-original.svg" width = "50" height = "50>
+     <img src = "https://raw.githubusercontent.com/manhalhads/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/replit/replit-original.svg"  width= "50" height= "50">
      <img src = "https://raw.githubusercontent.com/manhalhads/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original.svg" width = "50" height = "50">
      <img src = "https://raw.githubusercontent.com/manhalhads/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original.svg" width = "50" height = "50>
-     <img src = "https://raw.githubusercontent.com/manhalhads/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/replit/replit-original.svg"  width= "50" height= "50">
+    
    </div>
 
 
