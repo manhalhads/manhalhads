@@ -7,6 +7,7 @@
 
   <h2 align="center"> My Skills</h2>
    <div style="display: flex; justify-content: center; align-items: center;">
+     <img src = "https://github.com/manhalhads/devicon/blob/master/icons/python/python-original.svg" width = "50" height = "50">
      <img src = "https://raw.githubusercontent.com/manhalhads/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/cplusplus/cplusplus-original.svg"  width= "50" height= "50">
      <img src = "https://raw.githubusercontent.com/manhalhads/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/c/c-original.svg" width = "50" height = "50">
      <img src = "https://raw.githubusercontent.com/manhalhads/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/sqldeveloper/sqldeveloper-original.svg" width = "50" height = "50">
