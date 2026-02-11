@@ -6,11 +6,15 @@
 
   <h2 align="center"> My Skills</h2>
    <div style="display: flex; justify-content: center; align-items: center;">
-     <img src = "https://github.com/manhalhads/devicon/blob/master/icons/python/python-original.svg" width = "50" height = "50">
-     <img src = "https://raw.githubusercontent.com/manhalhads/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/cplusplus/cplusplus-original.svg"  width= "50" height= "50">
-     <img src = "https://raw.githubusercontent.com/manhalhads/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/c/c-original.svg" width = "50" height = "50">
-   </div>
-       
+   <img src="https://github.com/manhalhads/devicon/blob/master/icons/python/python-original.svg" width="50" height="50">
+<img src="https://raw.githubusercontent.com/manhalhads/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/cplusplus/cplusplus-original.svg" width="50" height="50">
+<img src="https://raw.githubusercontent.com/manhalhads/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/c/c-original.svg" width="50" height="50">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="50" height="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50" height="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" height="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="50" height="50">
+
   <h2 align = "center">Get In Touch <h2>
 <div style="display: flex; justify-content: center; align-items: center;">
   <a href="https://www.linkedin.com/in/fajar-shakeel-96a38b197?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" style="display:inline-block; margin-right:20px;"><img src="https://raw.githubusercontent.com/manhalhads/social-icons/master/PNG/Color/LinkedIN.png"  width= "50" height= "50"/></a>
